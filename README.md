@@ -1,37 +1,63 @@
-# Grill Restaurant Website 🍽️
 
-As part of my training at **Tahaluf Al Emarat Technical Solutions (تحالف الإمارات للحلول التقنية)**, I developed a visually rich and interactive restaurant website called **"Grill"** to enhance my web design and development skills.
+<details>
+<summary>اضغط لعرض README الكامل</summary>
 
----
+# 🍽️ Grill Restaurant Website
 
-## 💻 Project Overview
-
-**Grill Restaurant Website** is built using:
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **DOM Manipulation**
+A dynamic and visually appealing website for a fictional restaurant called "Grill", created to practice web development and design using modern frontend technologies.
 
 ---
 
-## 🛠️ Features
+## 📁 Project Structure
 
-- Stylish and user-friendly interface.
-- Interactive food menu using JavaScript & DOM.
-- Smooth animations and modern design aesthetics.
-- Responsive layout suitable for desktop and mobile.
+This project is a standalone frontend application built with core web technologies.
 
----
-
-## 🌟 What I Learned
-
-- Building dynamic web pages using JavaScript and the DOM.
-- Improving UX with engaging design and animations.
-- Strengthening my problem-solving skills with dynamic content management.
+```
+Grill-Restaurant-Website/
+├── index.html
+├── style.css
+└── script.js
+```
 
 ---
 
-## 🙌 Feedback
+## ⚙️ Technologies Used
 
-This project combined creativity and technical skills. I'm excited to continue exploring front-end development and welcome your feedback!
+- HTML5
+- CSS3
+- JavaScript
+- DOM Manipulation
 
+---
+
+## 🚀 Features
+
+- 🧾 Stylish and responsive restaurant homepage
+- 🍔 Dynamic menu display using JavaScript
+- 🎨 Smooth animations and UI effects
+- 📱 Mobile-friendly layout
+
+---
+
+## 💡 What I Learned
+
+- How to manipulate the DOM using JavaScript
+- Techniques to enhance user interaction and experience
+- Building a fully functional responsive design
+
+---
+
+## 🧑‍💻 Author
+
+- **Omar Sarhan**
+
+📧 [omar.kh.sarhan@gmail.com](mailto:omar.kh.sarhan@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-kh-sarhan/)
+
+---
+
+## 🌟 Show Your Support
+
+If you enjoyed this project, please ⭐ the repository and share it with others!
+
+</details>
